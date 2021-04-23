@@ -1,7 +1,13 @@
 # shellshock
-Usage: python3 shell_shocker.put
 
-Enter target URL
-Enter cgi_path
+this script is exploitations of remote code execution that and in aim vulnerability of shellshocks
 
-Enter any command
+
+Usage: 
+      
+    python3 shell_shocker.py
+
+    Enter target URL
+    Enter cgi_path
+
+    Enter any command
